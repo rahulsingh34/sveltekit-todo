@@ -1,3 +1,3 @@
 # SvelteKit Todo App
 
-Testing out SvelteKit by building a Todo App
+Adding Supabase Auth and Database to the Todo App
